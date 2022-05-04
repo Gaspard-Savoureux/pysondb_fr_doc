@@ -1,6 +1,6 @@
 <h1 align="center"> <i><b> ~ PysonDB ~ </i></b></h1>
 
-Je recommande de consulter la documentation officielle de [PysonDB](https://pysondb.github.io/pysonDB/) pour plus d'informations
+Je recommande de consulter la documentation officielle de [PysonDB](https://pysondb.github.io/pysonDB/) pour plus d'informations.
 
 ### Installation
 ```
