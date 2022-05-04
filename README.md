@@ -155,7 +155,7 @@ print(result)
 ```
 
 Le résultat devrais ressembler à:
-```json
+```
 {'nom complet': 'Jean Melon', 'profession': 'Chômeur professionnel', 'id': 120322390294107486}
 ```
 
