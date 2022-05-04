@@ -2,11 +2,11 @@
 
 Je recommande de consulter la documentation officielle de [PysonDB](https://pysondb.github.io/pysonDB/) pour plus d'informations
 
-###Installation
+### Installation
 ```
 pip install pysondb
 ```
-###Explication
+### Explication
 
 Vous devez import le module pysondb.
 ```py
@@ -27,7 +27,7 @@ collection = db.getDb("db/collection.json")
 Avec PysonDB vous pouvez ajoutez, retirez et modifier des éléments d'une collection.
 >Notez que les collections doivents avec la même structure pour chacune 
 
-####add
+#### add
 1. (**add**)
 >Pour n'ajouter qu'une entrée.
 
@@ -84,7 +84,7 @@ Le résultat devrais ressembler à:
    ]
 }
 ```
-###get
+### get
 1. (**get**):
 >Pour retourner des données selon une quantitées données.
 
@@ -159,7 +159,7 @@ Le résultat devrais ressembler à:
 {'nom complet': 'Jean Melon', 'profession': 'Chômeur professionnel', 'id': 120322390294107486}
 ```
 
-###delete
+### delete
 
 1. (**deleteAll**):
 >Supprime toute les données d'une collection
@@ -219,7 +219,7 @@ Avant suppréssion [{'nom': 'Métro', 'id': 258641293871288784}, {'nom': 'IGA', 
 Après suppréssion [{'nom': 'IGA', 'id': 139060333880566143}]
 ```
 
-###update
+### update
 1. (**updateById**):
 >mets à jour une données selon son id.
 
