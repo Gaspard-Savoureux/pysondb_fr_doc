@@ -24,7 +24,7 @@ collection = db.getDb("db/collection.json")
 ```
 >Puisque vous pouvez spécifier l'emplacement de vos collections, placé celles-ci dans un répertoire nommé "db".
 
-Avec PysonDB vous pouvez ajoutez, retirez et modifier des éléments d'une collection.
+Avec PysonDB vous pouvez ajouter, retirer et modifier des éléments d'une collection.
 >Notez que les collections doivents avec la même structure pour chacune 
 
 #### add
